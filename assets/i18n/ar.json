@@ -1,0 +1,10 @@
+{
+    "navbar":{
+        "Home":"الرئيسية",
+        "login":"تسجيل الدخول",
+        "log out":"خروج",
+        "d":"rtl",
+        "English":"English",
+        "Arabic":"Arabic"
+    }
+}

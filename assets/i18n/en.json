@@ -1,0 +1,11 @@
+{
+    "navbar":{
+        "Home":"Home",
+        "login":"login",
+        "log out":"log out",
+        "d":"ltr",
+        "English":"انجليزي",
+        "Arabic":"عربي"
+    }
+
+}
